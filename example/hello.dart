@@ -2,7 +2,7 @@ import 'package:belajar_dart_library/hello.dart'; // mengimport package library 
 
 void main(){
 
-  print(sayHello("Rhehan"));
+  print(sayHello("Rhehan Muzaky"));
 
   var customer = Customer();
   var category = Category();
